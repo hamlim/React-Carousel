@@ -1,0 +1,18 @@
+.Slider {
+  white-space: nowrap;
+  font-size: 0;
+  overflow: scroll;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.Slide {
+  font-size: 1rem;
+  height: 40vmin;
+  width: 40vmin;
+  border: solid 1px mediumseagreen;
+  text-align: center;
+  line-height: 40vmin;
+  display: inline-block;
+}
